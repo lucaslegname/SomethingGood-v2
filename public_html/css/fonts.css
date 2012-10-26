@@ -1,0 +1,233 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #262626;
+}
+
+p
+{
+	font-size: 13px;
+	line-height: 15px;
+}
+
+#title-begin
+{
+	font-size: 22px;
+	font-family: 'Marko One', serif;
+	color: black;
+	opacity:0.6;
+}
+#title-end
+{
+	font-size: 22px;
+	font-family: 'Marko One', serif;
+	color: #4BB3B3;
+	opacity: 0.7;
+}
+
+#top-menu
+{
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	line-height: 11pt;
+}
+
+#footer
+{
+	font-family: Trebuchet MS;
+	color: #C2C2C2;
+}
+
+a
+{
+	color: #4BB3B3;
+	text-decoration: none;
+}
+
+#footer a
+{
+	font-size: 14px;
+}
+
+#icons-container a
+{
+	color: white;
+	font-family: 'Merriweather', serif;
+	font-size: 14px;
+	opacity:0.99;
+}
+
+.no-touch #icons-container a:hover
+{
+	color: #4BB3B3;
+}
+
+#search-text
+{	
+	font-size: 14px;
+	text-decoration: none;
+	color: white;
+	font-family: 'Merriweather', serif;
+	opacity: 0.8;
+}
+
+.no-touch a:hover
+{
+	color: #9E9E9E;
+}
+
+h2
+{
+	font-family: 'Judson', serif;
+	font-size: 24px;
+}
+
+#footer h2
+{
+	font-size: 22px;
+	cursor: default;
+}
+
+h2 a
+{
+	font-family: 'Judson', serif;
+	font-size: 24px;
+	color: #262626;
+}
+
+.no-touch h2 a:hover
+{
+	color: #4BB3B3;
+}
+
+#icons-container
+{
+	font-family: 'Judson', serif;
+	font-size: 16px;
+	opacity: 0.8;
+}
+
+#side-menu h2{
+	font-family: Trebuchet MS;
+	font-size: 20px;
+	color: #707070;
+	cursor: default;
+}
+
+#side-menu h3{
+	font-family: 'Judson', serif;
+	font-size: 14px;
+	color: #9E9E9E;
+	margin-left: 3px;
+	cursor: default;
+}
+
+#side-menu
+{
+	font-family: Trebuchet MS;
+}
+
+li
+{
+	font-size: 12px;
+}
+
+.tweetList li{
+	font-size: 12px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	list-style-type: none;
+	text-align: left;
+}
+
+.under-title
+{
+	font-size: 12px;
+	color: #C2C2C2;
+	cursor: default;
+}
+
+#footer-citation
+{
+	font-family: 'Judson', serif;
+	font-size: 14px;
+}
+
+#link-tag
+{
+	font-size: 12px;
+	font-family: 'Merriweather', serif;
+}
+
+#text-twitter
+{
+	font-size: 12px;
+	text-align: right;
+}
+
+table th
+{
+	font-weight: bold;
+}
+
+.txt-right
+{
+	text-align: right;
+}
+
+.limited-width
+{
+	max-width: 220px;
+}
+
+.article p, .main-article p
+{
+	font-size: 13px;
+	line-height: 15px;
+}
+
+.redtext
+{
+	color: red;	
+}
+
+.captchaError
+{
+	font-size: 12px;
+	display: none;
+}
+
+#insta-follow
+{
+	margin-top: 5px;
+	font-size: 12px;
+	color: #9E9E9E;
+	text-align: center;
+}
+
+h3
+{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+}
+
+h4
+{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 15px;
+}
+
+#footer-credits, #footer-credits a
+{
+	font-size: 12px;
+}
+
+em {
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}

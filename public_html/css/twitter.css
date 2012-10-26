@@ -1,0 +1,67 @@
+#twitter_update_list
+{
+	font-size: 13px;
+	list-style: none;
+	padding: 0px;
+	margin: 0px 0px 0px 0px;
+	text-align: left;
+	background-image: url(../images/twitter-background.png);
+}
+#twitter_update_list li
+{
+	margin-left: 0px;
+	margin-bottom: 10px;
+}
+#twitter_update_list span, #twitter_update_list span a
+{
+	text-decoration: none;
+	/*display: block;*/
+}
+
+#twitter_update_list a[style='font-size:85%'] 
+{
+	font-size: 1em !important; 
+	display: none !important; 
+}
+
+#div-link-twitter
+{
+	width:100%;
+	height:30px;
+	position: relative;	
+}
+
+#link-twitter
+{
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top: 0px;
+	right: 10px;
+	background-image: url(../images/link-twitter.png);
+}
+
+#link-twitter:hover
+{
+	/*cursor: pointer;*/
+	background-image: url(../images/link-twitter-hover.png);
+}
+
+#text-twitter
+{
+	padding-right: 45px;
+	padding-top: 7px;
+	cursor: default;
+	color: #9E9E9E;
+	display: none;
+}
+
+#twitter-widget-0
+{
+	margin-bottom: 20px;
+}
+
+.twitter-timeline
+{
+	border-bottom: red 3px;
+}
