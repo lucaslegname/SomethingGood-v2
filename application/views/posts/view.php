@@ -53,7 +53,7 @@
 	<div class="under-title">
 		<?php echo ago(strtotime($post_item['dateNews'])); ?>  ⋅ 
 		<?php echo $post_item['category']; ?> ⋅ 
-		<?php echo $post_item['nbViews']; ?> vues ⋅ 
+		<?php echo ($post_item['nbViews']+1); ?> vues ⋅ 
 		<span class="nb-likes"><?php echo $post_item['nbLikes']; ?></span> likes 
 		<span class="like-link" <?php echo $data_liked; ?>>
 			- <a data-url="<?php echo $url_like; ?>">I like! :)</a>

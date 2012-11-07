@@ -3,4 +3,4 @@
 <div id="instagram-feed">
 	<div class="insta-loading"></div>
 </div>
-<div id="insta-follow">Profil Instagram: <a href="http://statigr.am/lucaslegname" target="_blank">@lucaslegname</a></div>
+<div id="insta-follow">Profil Instagram: <a href="http://instagram.com/lucaslegname" target="_blank">@lucaslegname</a></div>
