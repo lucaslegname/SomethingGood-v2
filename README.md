@@ -1,7 +1,8 @@
 # SomethingGood-v2
 
-Second version of my website.
+<p>Second version of my website.</p>
 
-Code: PHP
+<p>
+Code: PHP<br />
 Framework: CodeIgniter
-
+</p>
